@@ -36,6 +36,8 @@
 ```bash
 # Clone the Repository:
 git clone https://github.com/your-username/carbontrack.git
+
+# Changing the directory
 cd project
 
 # Install Dependencies:
