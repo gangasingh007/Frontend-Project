@@ -69,7 +69,7 @@
 ```bash
 # Clone the Repository:
 git clone https://github.com/your-username/carbontrack.git
-cd carbontrack
+cd project
 
 # Install Dependencies:
 npm install
